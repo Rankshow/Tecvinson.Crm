@@ -1,0 +1,53 @@
+﻿@page "/addMentor"
+<h3>AddMentor</h3>
+
+<EditForm Model="Mentor" OnSubmit="AddMentorData" class="row p-3">  
+    <div class="col-md-12 mb-3">
+        <label> FirstName </label><span class="text-danger">*</span>
+        <InputText id="FirstName" @bind-Value="Mentor.FirstName" class="form-control"/>
+    </div>
+
+    <div class="col-md-12 mb-3">
+        <label> Last Name </label><span class="text-danger">*</span>
+        <InputText id="LastName" @bind-Value="Mentor.LastName" class="form-control"/>
+    </div>
+
+    <div class="col-md-6 mb-3">
+        <label> Email </label><span class="text-danger">*</span>
+        <InputText id="Email" @bind-Value="Mentor.Email" class="form-control"/>
+    </div>
+
+    <div class="col-md-6 mb-3">
+        <label> Phone </label><span class="text-danger">*</span>
+        <InputText id="Phone" @bind-Value="Mentor.Phone" class="form-control"/>
+    </div>
+
+    <div class="col-md-6 mb-3">
+        <label> Gender </label><span class="text-danger">*</span>
+        <InputSelect id="Gender" @bind-Value="Mentor.Gender" class="form-control">
+            @foreach (var gender in Genders ?? new ())
+            {
+                <option value="@gender">@gender</option>
+            }
+        </InputSelect>
+    </div>
+    
+    <div class="col-md-6 mb-3">
+        <label> CourseGroup </label><span class="text-danger">*</span>
+        <InputSelect id="CourseGroup" @bind-Value="Mentor.AssignedGroupId" class="form-control">
+            @foreach (var courseGroup in CourseGroups ?? new ())
+            {
+                <option value="@courseGroup">@courseGroup.Name</option>
+            }
+        </InputSelect>
+    </div>
+
+    <div class="col-md-12 mb-3">
+        <label> Photo </label><span class="text-danger">*</span>
+        <InputTextArea id="Photo" @bind-Value="Mentor.Photo" class="form-control" />
+    </div>
+    
+    <div class="col-md-12 mb-3">
+        <button type="button" class="btn btn-primary">Submit</button>
+    </div>
+</EditForm>

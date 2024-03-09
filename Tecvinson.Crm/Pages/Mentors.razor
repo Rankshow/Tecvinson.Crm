@@ -1,0 +1,18 @@
+﻿ <div class="row">
+        @foreach (var mentor in ListMentors ?? new ())
+        {
+            <div class="col-md-4 px-1 ">
+                <div class="card m-5" style="width: 18rem; margin: 0 auto; margin-bottom: 10px">
+                    <img src="@mentor.Photo" class="card-img-top" alt="...">
+                    <div class="card-body text-center">
+                        <p class="card-text text-black">@mentor.FirstName @mentor.LastName</p>
+                        <p class="card-text">@mentor.Email</p>
+                        <p class="card-text text-danger">@mentor.Gender</p>
+                        <p class="card-text">@mentor.Phone</p>
+                        <p class="card-text">@mentor.AssignedGroupId</p>
+                        <a href="#" class="btn btn-success">Edit</a>
+                    </div>
+                </div>
+            </div>
+        }
+</div>

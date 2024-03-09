@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\pages\\mentorsindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\pages\\mentorsindex.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\pages\\mentorsindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\pages\\mentorsindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\pages\\mentors.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\pages\\mentors.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\features\\mentors\\services\\mentorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\features\\mentors\\services\\mentorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\pages\\creatementor.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\pages\\creatementor.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\pages\\creatementor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\pages\\creatementor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\features\\coursegroups\\interface\\icoursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\features\\coursegroups\\interface\\icoursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\features\\coursegroups\\model\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\features\\coursegroups\\model\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\features\\mentors\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\features\\mentors\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\features\\coursegroups\\services\\coursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\features\\coursegroups\\services\\coursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|c:\\users\\user\\source\\repos\\tecvinson.crm\\tecvinson.crm\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12C00525-17B8-44BB-B09B-DA6123669E49}|Tecvinson.Crm\\Tecvinson.Crm.csproj|solutionrelative:tecvinson.crm\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MentorsIndex.razor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Pages\\MentorsIndex.razor.cs",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\Pages\\MentorsIndex.razor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Pages\\MentorsIndex.razor.cs",
+              "RelativeToolTip": "Tecvinson.Crm\\Pages\\MentorsIndex.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:05:12.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateMentor.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Pages\\CreateMentor.razor",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\Pages\\CreateMentor.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Pages\\CreateMentor.razor",
+              "RelativeToolTip": "Tecvinson.Crm\\Pages\\CreateMentor.razor",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T12:31:39.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MentorsIndex.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Pages\\MentorsIndex.razor",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\Pages\\MentorsIndex.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Pages\\MentorsIndex.razor",
+              "RelativeToolTip": "Tecvinson.Crm\\Pages\\MentorsIndex.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T15:12:29.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mentors.razor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Pages\\Mentors.razor.cs",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\Pages\\Mentors.razor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Pages\\Mentors.razor.cs",
+              "RelativeToolTip": "Tecvinson.Crm\\Pages\\Mentors.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T17:04:45.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MentorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Features\\Mentors\\Services\\MentorService.cs",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\Features\\Mentors\\Services\\MentorService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Features\\Mentors\\Services\\MentorService.cs",
+              "RelativeToolTip": "Tecvinson.Crm\\Features\\Mentors\\Services\\MentorService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T11:37:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateMentor.razor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Pages\\CreateMentor.razor.cs",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\Pages\\CreateMentor.razor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Pages\\CreateMentor.razor.cs",
+              "RelativeToolTip": "Tecvinson.Crm\\Pages\\CreateMentor.razor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:32:08.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICourseGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Features\\CourseGroups\\Interface\\ICourseGroupService.cs",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\Features\\CourseGroups\\Interface\\ICourseGroupService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Features\\CourseGroups\\Interface\\ICourseGroupService.cs",
+              "RelativeToolTip": "Tecvinson.Crm\\Features\\CourseGroups\\Interface\\ICourseGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T11:25:30.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Tecvinson.Crm\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T13:06:15.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseGroup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Features\\CourseGroups\\Model\\CourseGroup.cs",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\Features\\CourseGroups\\Model\\CourseGroup.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Features\\CourseGroups\\Model\\CourseGroup.cs",
+              "RelativeToolTip": "Tecvinson.Crm\\Features\\CourseGroups\\Model\\CourseGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T11:28:39.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Features\\CourseGroups\\Services\\CourseGroupService.cs",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\Features\\CourseGroups\\Services\\CourseGroupService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Features\\CourseGroups\\Services\\CourseGroupService.cs",
+              "RelativeToolTip": "Tecvinson.Crm\\Features\\CourseGroups\\Services\\CourseGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T11:37:34.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Features\\Mentors\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\Features\\Mentors\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Features\\Mentors\\Enums\\Gender.cs",
+              "RelativeToolTip": "Tecvinson.Crm\\Features\\Mentors\\Enums\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T12:10:45.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\Client\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Client\\Program.cs",
+              "RelativeToolTip": "Tecvinson.Crm\\Client\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T14:12:24.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Component.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Pages\\Component.razor",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\Pages\\Component.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Pages\\Component.razor",
+              "RelativeToolTip": "Tecvinson.Crm\\Pages\\Component.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T16:57:18.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "Tecvinson.Crm\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-08T09:49:18.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\wwwroot\\index.html",
+              "RelativeToolTip": "Tecvinson.Crm\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-02T12:25:05.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "Tecvinson.Crm\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Tecvinson.Crm\\Tecvinson.Crm\\Pages\\FetchData.razor",
+              "RelativeToolTip": "Tecvinson.Crm\\Pages\\FetchData.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T10:44:14.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
