@@ -61,14 +61,25 @@ namespace Tecvinson.Crm.Features.Mentors.Services
             return _mentors;
         }
 
-        public Mentor GetMentor(string id)
+        public Mentor? GetMentor(string id)
         {
-            throw new NotImplementedException();
+            return _mentors.First(m => m.Id == id);
         }
 
         public bool UpdateMentor(Mentor mentor)
         {
-            throw new NotImplementedException();
+            var existingMentor = _mentors.First(m => m.Id == mentor.Id);
+            if(existingMentor != null) 
+            {
+                existingMentor.AssignedGroupId = mentor.AssignedGroupId;
+                existingMentor.FirstName = mentor.FirstName;
+                existingMentor.LastName = mentor.LastName;
+                existingMentor.Email = mentor.Email;    
+                existingMentor.Gender = mentor.Gender;
+                existingMentor.Phone = mentor.Phone;
+                existingMentor.Photo = mentor.Photo;
+            }
+            return true;
         }
     }
 }

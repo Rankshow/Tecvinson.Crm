@@ -7,7 +7,7 @@ namespace Tecvinson.Crm.Features.Mentors.Interfaces
         bool AddMentor(Mentor mentor);
         bool UpdateMentor(Mentor mentor);
         bool DeleteMentor(string id);
-        Mentor GetMentor(string id);
+        Mentor? GetMentor(string id);
         IEnumerable<Mentor> GetAllMentors();
     }
 }

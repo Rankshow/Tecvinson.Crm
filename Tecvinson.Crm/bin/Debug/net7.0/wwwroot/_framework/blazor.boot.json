@@ -1,7 +1,7 @@
 {
   "entryAssembly": "Tecvinson.Crm",
   "resources": {
-    "hash": "sha256-O7rKKvtnj7r9//wnsT6fh18KH6l/S2szQnEtfVOgA2Q=",
+    "hash": "sha256-1B8WCg0nBArOby5GUR3XwKhhqbBZ6xlzOTbI7hAuNjw=",
     "runtime": {
       "dotnet.7.0.16.tq7culeg9j.js": "sha256-4BiArKugJJtpQrznGF5zWfmJ2TB98+p6rKsyoqhtMk4=",
       "dotnet.timezones.blat": "sha256-rwyJqJu36keQwNmm/O1XV7tnkkVldIOK8GIjn4gTUt4=",
@@ -202,10 +202,10 @@
       "mscorlib.dll": "sha256-7yxnoj0sx/xIMKjSCkfYzaeQKDj1UsUSr/JXW7fRggs=",
       "netstandard.dll": "sha256-c9xgB5oQro5/rBTTHeD+4cqLi9QOB+6fhaP3jmkeGo4=",
       "System.Private.CoreLib.dll": "sha256-FGXoQzMt7mcWfUZbWXoXgg8tPIt7PF+QZoXXBQWegAQ=",
-      "Tecvinson.Crm.dll": "sha256-dZqoYZ7QYqAS8tLGT+bl5BQxCTaTh3QSBwLi97/THwI="
+      "Tecvinson.Crm.dll": "sha256-QoI1mhqP6UPgJPdt38AmNW8E2LbeJKtXvV56i726DPM="
     },
     "pdb": {
-      "Tecvinson.Crm.pdb": "sha256-iS69/5Z9C/rLm7j2dW7JDDSrg4ghAGt04vTrhxcRIaQ="
+      "Tecvinson.Crm.pdb": "sha256-XnAWK7vUiBoYc7J4dzzcP/7Yd2tf4XGWcfvUL5KOTQo="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

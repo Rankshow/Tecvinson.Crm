@@ -825,3 +825,4 @@ C:\Users\User\source\repos\Tecvinson.Crm\Tecvinson.Crm\obj\Debug\net7.0\compress
 C:\Users\User\source\repos\Tecvinson.Crm\Tecvinson.Crm\obj\Debug\net7.0\compressed\czoqhf0fg8.gz
 C:\Users\User\source\repos\Tecvinson.Crm\Tecvinson.Crm\obj\Debug\net7.0\compressed\s9488jq7hy.gz
 C:\Users\User\source\repos\Tecvinson.Crm\Tecvinson.Crm\obj\Debug\net7.0\Tecvinso.582D17EA.Up2Date
+C:\Users\User\source\repos\Tecvinson.Crm\Tecvinson.Crm\obj\Debug\net7.0\Tecvinson.Crm.sourcelink.json

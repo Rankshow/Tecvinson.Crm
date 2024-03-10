@@ -10,7 +10,8 @@
                         <p class="card-text text-danger">@mentor.Gender</p>
                         <p class="card-text">@mentor.Phone</p>
                         <p class="card-text">@mentor.AssignedGroupId</p>
-                        <a href="#" class="btn btn-success">Edit</a>
+                        <a href="/updateMentor/@mentor.Id" class="btn btn-success">Edit</a>
+                        <button @onclick="() => EditMentor(mentor.Id)" class="btn btn-success">Edit_2</button>
                     </div>
                 </div>
             </div>

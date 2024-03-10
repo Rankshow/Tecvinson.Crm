@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tecvinson.Crm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bef8633348e0ae9935313b47a5f7789337d1646")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tecvinson.Crm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tecvinson.Crm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

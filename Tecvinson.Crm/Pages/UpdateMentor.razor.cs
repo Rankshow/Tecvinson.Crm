@@ -7,12 +7,16 @@ using Tecvinson.Crm.Features.Mentors.Models;
 
 namespace Tecvinson.Crm.Pages
 {
-    public partial class CreateMentor
+    public partial class UpdateMentor
     {
         public Mentor Mentor { get; set; } = new Mentor();
 
         public List<CourseGroup>? CourseGroups { get; set; }
-        public List<Gender>? Genders { get; set; }      
+        public List<Gender>? Genders { get; set; }
+
+        //Passing the parameter that update the mentors
+        [Parameter]
+        public string MentorId { get; set; } = string.Empty;
 
         [Inject]
         private ICourseGroupService? CourseGroupService { get; set; }
@@ -24,13 +28,14 @@ namespace Tecvinson.Crm.Pages
         {
             CourseGroups = CourseGroupService?.GetCourseGroups().ToList();
             Genders = Enum.GetValues(typeof(Gender)).Cast<Gender>().ToList();
+            Mentor = MentorService?.GetMentor(MentorId) ?? new Mentor();
             return Task.CompletedTask;
         }
 
         //Eventlistener
-        public void AddMentorData()
+        private void UpdateMentorData()
         {
-            MentorService?.AddMentor(Mentor);
+            MentorService?.UpdateMentor(Mentor);
         }
     }
 }

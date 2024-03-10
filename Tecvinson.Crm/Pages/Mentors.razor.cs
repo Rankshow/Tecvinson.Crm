@@ -7,5 +7,13 @@ namespace Tecvinson.Crm.Pages
     {
         [Parameter]
         public List<Mentor>? ListMentors { get; set; }
+        [Parameter]
+        public EventCallback<string> OnEditMentor { get; set; } 
+
+        //Generate an Event but in different way.
+        public void EditMentor(string mentorId)
+        {
+            OnEditMentor.InvokeAsync(mentorId);
+        }
     }
 }

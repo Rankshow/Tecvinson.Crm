@@ -1,11 +1,11 @@
-﻿@page "/addMentor"
-<h3>AddMentor</h3>
+﻿@page "/updateMentor/{mentorId}"
+<h3>Update</h3>
 
 <div class="col-md-6 pb-3">
-    <a href="/Mentors" class="btn btn-primary">Back</a>
+    <a href="/Mentors" class="btn btn-primary">Update Mentor</a>
 </div>
 
-<EditForm Model="Mentor" OnSubmit="AddMentorData" class="row p-3">  
+<EditForm Model="Mentor" OnSubmit="UpdateMentorData" class="row p-3">
     <div class="col-md-12 mb-3">
         <label> FirstName </label><span class="text-danger">*</span>
         <InputText id="FirstName" @bind-Value="Mentor.FirstName" class="form-control"/>
@@ -52,7 +52,7 @@
     </div>
     
     <div class="col-md-12 mb-3">
-        <button type="button" class="btn btn-primary">Submit</button>
+        <button type="button" class="btn btn-primary">Update</button>
          <a href="/mentors" class="btn btn-danger">Cancel</a>
     </div>
 

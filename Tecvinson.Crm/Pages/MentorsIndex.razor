@@ -1,5 +1,8 @@
 ﻿@page "/mentors"
 
 <h3 style="text-align:center;" class="text-danger fw-bold">Mentors</h3>
+<div class="col-md-6 pb-3">
+    <a href="/addMentor" class="btn btn-primary">Add Mentor</a>
+</div>
 
-<Mentors ListMentors="Mentors" />
+<Mentors ListMentors="Mentors" OnEditMentor="ModifyMentor" />
